@@ -1,1 +1,2 @@
 Putting text inside File-1.txt
+Putting 2nd line text
