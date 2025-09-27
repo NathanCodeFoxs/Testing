@@ -1,1 +1,3 @@
 Putting text inside File-1.txt
+
+Adding a 3rd line text
