@@ -1,1 +1,2 @@
 Adding file-2.txt
+Hello going to merge it now
