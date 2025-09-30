@@ -1,3 +1,4 @@
 Adding file-2.txt
 Trying to merge 2 files
-3rd line update
+Adding Stuff 
+Adding Stuff
